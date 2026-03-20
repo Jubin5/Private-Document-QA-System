@@ -95,23 +95,6 @@ streamlit run chatbot_rag.py
 
 ---
 
-## 🧠 Tech Stack
-
-* LangChain
-* Ollama (LLaMA 3)
-* ChromaDB
-* Streamlit
-* Python
-
----
-
-## 📌 Future Improvements
-
-* Add memory (chat history retrieval)
-* Deploy on cloud
-* Add multi-document filtering
-* Use LangChain Agents
-
 ---
 
 ## 👨‍💻 Author
