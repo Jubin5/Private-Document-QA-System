@@ -82,7 +82,8 @@ python retrieval.py
 ```bash
 streamlit run chatbot_rag.py
 ```
-
+  You can now view your Streamlit app in your browser.
+  Network URL: http://192.168.1.63:8501
 ---
 
 ## 🔥 Features
